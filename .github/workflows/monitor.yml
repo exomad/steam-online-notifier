@@ -12,7 +12,7 @@ permissions:
 concurrency:
   group: steam-monitor
   cancel-in-progress: false
-
+ 
 jobs:
   monitor:
     runs-on: ubuntu-latest
